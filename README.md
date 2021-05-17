@@ -1,4 +1,4 @@
-# Car factory
+<!-- # Car factory
 
 Create a constructor function that can be used to create objects.
 
@@ -10,7 +10,7 @@ The factory should take in three parameters and save them to the created objects
 - year
 
 Use your function to create 10 different cars. Store all of them inside a "garage" array.
-
+ -->
 
 
 
